@@ -1,0 +1,7 @@
+{
+  "as_of": "2026-09-21",
+  "description": "Top 10 S&P 500 by approximate market cap",
+  "tickers": [
+    "AAPL", "MSFT", "NVDA", "AMZN", "META", "GOOGL", "BRK.B", "LLY", "AVGO", "JPM"
+  ]
+}

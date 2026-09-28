@@ -1,0 +1,12 @@
+{
+  "max_position_pct": 0.30,
+  "max_positions_per_day": 10,
+  "flatten_at_close": true,
+  "preopen_minutes": 60,
+  "research_minutes_before_open": 60,
+  "sulija_priority": 1,
+  "zuokas_priority": 1,
+  "litt_priority": 3,
+  "poll_interval_seconds": 30,
+  "committee_majority": 2
+}

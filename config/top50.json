@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-09-21",
+  "description": "Approximate top 50 S&P 500 by market cap — refresh periodically",
+  "tickers": [
+    "AAPL", "MSFT", "NVDA", "AMZN", "META", "GOOGL", "GOOG", "BRK.B", "LLY", "AVGO",
+    "JPM", "TSLA", "V", "XOM", "UNH", "MA", "PG", "JNJ", "HD", "COST",
+    "ABBV", "MRK", "WMT", "CVX", "CRM", "BAC", "NFLX", "AMD", "KO", "PEP",
+    "TMO", "LIN", "ADBE", "ACN", "MCD", "CSCO", "ABT", "WFC", "DIS", "INTC",
+    "CMCSA", "TXN", "PM", "INTU", "VZ", "AMGN", "IBM", "QCOM", "CAT", "GE"
+  ]
+}
